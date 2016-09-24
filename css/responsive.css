@@ -1,0 +1,13 @@
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #333;
+    }
+}
+@media (min-width: 776px) {
+    .carousel .view ul li {
+        display: inline;
+    }
+    .carousel .view .full-bg-img ul li .flex-item {
+        margin-bottom: 1.5rem;
+    }
+}
